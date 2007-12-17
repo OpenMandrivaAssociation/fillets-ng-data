@@ -17,7 +17,6 @@ Source0:	http://prdownloads.sourceforge.net/fillets/%name-%version.tar.gz
 Requires:	%{mainname}
 Provides:	fillets-ng-data-cs
 Obsoletes:	fillets-ng-data-cs
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 BuildArch:	noarch
 
 %description
