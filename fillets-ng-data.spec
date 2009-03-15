@@ -1,13 +1,13 @@
 %define name fillets-ng-data
-%define version 0.8.0
-%define release 1
+%define version 0.8.1
+%define rel 1
 
 %define mainname fillets-ng
 
 Summary: Data files for the Fish Fillets NG game
 Name: %{name}
 Version: %{version}
-Release: %mkrel %{release}
+Release: %mkrel %{rel}
 License: GPL
 Group: Games/Arcade
 URL: http://fillets.sourceforge.net/
