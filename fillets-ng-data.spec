@@ -1,6 +1,6 @@
 %define name fillets-ng-data
 %define version 0.9.2
-%define rel 1
+%define rel 2
 
 %define mainname fillets-ng
 
