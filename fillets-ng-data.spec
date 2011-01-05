@@ -1,13 +1,13 @@
 %define name fillets-ng-data
-%define version 0.9.2
-%define rel 2
+%define version 1.0.0
+%define release %mkrel 1
 
 %define mainname fillets-ng
 
 Summary: Data files for the Fish Fillets NG game
 Name: %{name}
 Version: %{version}
-Release: %mkrel %{rel}
+Release: %{release}
 License: GPLv2+
 Group: Games/Puzzles
 URL: http://fillets.sourceforge.net/
@@ -38,5 +38,3 @@ rm -rf %{buildroot}
 %defattr(-,root,root)
 %doc COPYING doc
 %{_gamesdatadir}/%{mainname}
-
-
