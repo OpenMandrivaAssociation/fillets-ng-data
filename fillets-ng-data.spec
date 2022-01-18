@@ -6,8 +6,8 @@
 
 Summary: Data files for the Fish Fillets NG game
 Name: %{name}
-Version: %{version}
-Release: %{release}
+Version:	1.0.1
+Release:	1
 License: GPLv2+
 Group: Games/Puzzles
 URL: http://fillets.sourceforge.net/
