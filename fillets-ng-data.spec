@@ -10,7 +10,7 @@ Version:	1.0.1
 Release:	1
 License: GPLv2+
 Group: Games/Puzzles
-URL: http://fillets.sourceforge.net/
+URL: https://fillets.sourceforge.net/
 # gz smaller than bz2
 Source0: http://downloads.sourceforge.net/fillets/%name-%version.tar.gz
 Requires: %{mainname}
